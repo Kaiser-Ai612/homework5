@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "лаба 5": {
+      "commandName": "Project",
+      "commandLineArgs": "текст.txt"
+    }
+  }
+}
